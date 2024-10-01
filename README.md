@@ -1,2 +1,0 @@
-# pong.mom
-site
